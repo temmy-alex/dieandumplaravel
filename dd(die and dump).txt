@@ -1,0 +1,4 @@
+Apa itu die and dump
+
+dd() atau die and dump adalah sebuah fungsi helpers yang disediakan oleh
+laravel untuk mengecek isi dari variable dan menghentikan proses script 
